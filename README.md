@@ -10,7 +10,7 @@ The project transforms Airbnb listing and review data into meaningful visual ins
 
 **Global Airbnb Performance Dashboard — Overview**
 
-![Airbnb Dashboard Overview](ADD_YOUR_DASHBOARD_SCREENSHOT_HERE)
+![Airbnb Dashboard Overview](https://github.com/Zeedan-developer/Airbnb-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 *Replace the placeholder above with your Overview page screenshot.*
 
